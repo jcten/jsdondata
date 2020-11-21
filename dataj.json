@@ -1,8 +1,8 @@
 [   
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"3", "Loses":"4", "Draws":"2"},
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"4", "Loses":"6", "Draws":"3"},
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"0", "Loses":"1", "Draws":"1"},
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"4", "Loses":"1", "Draws":"6"},
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"7", "Loses":"0", "Draws":"2"},
-    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":"4", "Loses":"4", "Draws":"1"}
+    {"Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":3},
+    {"Name":"Pepe", "Avatar":"holasoyunaurl.com", "Wins":4},
+    {"Name":"Luis", "Avatar":"holasoyunaurl.com", "Wins":0},
+    {"Name":"Pedro", "Avatar":"holasoyunaurl.com", "Wins":4},
+    {"Name":"Jose", "Avatar":"holasoyunaurl.com", "Wins":7},
+    {"Name":"Alexandre", "Avatar":"holasoyunaurl.com", "Wins":4}
 ]

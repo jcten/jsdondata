@@ -1,8 +1,10 @@
 [   
-    {"email":"j@gmail.com", "Name":"Paco", "Avatar":"holasoyunaurl.com", "Wins":3},
-    {"email":"jn@gmail.com", "Name":"Pepe", "Avatar":"holasoyunaurl.com", "Wins":4},
-    {"email":"j@gmail.com", "Name":"Luis", "Avatar":"holasoyunaurl.com", "Wins":0},
-    {"email":"j@gmail.com", "Name":"Pedro", "Avatar":"holasoyunaurl.com", "Wins":4},
-    {"email":"jcten92@gmail.com", "Name":"Jose", "Avatar":"holasoyunaurl.com", "Wins":7},
-    {"email":"j@gmail.com", "Name":"Alexandre", "Avatar":"holasoyunaurl.com", "Wins":4}
+    {"email":"alejandro@gmail.com", "Name":"Alejandro", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/alejandro.jpg", "Wins":3},
+    {"email":"alexandre@gmail.com", "Name":"Alexandre", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/alexandre.png", "Wins":4},
+    {"email":"carlos@gmail.com", "Name":"Carlos", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/carlos.png", "Wins":0},
+    {"email":"fran@gmail.com", "Name":"Fran", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/fran.png", "Wins":4},
+    {"email":"jose@gmail.com", "Name":"Jose", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/joso.png", "Wins":7},
+    {"email":"josu@gmail.com", "Name":"Josu", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/josu.png", "Wins":4}
+    {"email":"nacho@gmail.com", "Name":"Igancio", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/nacho.png", "Wins":0}
+    {"email":"camoncio@gmail.com", "Name":"Victor", "Avatar":"https://raw.githubusercontent.com/jcten/jsdondata/master/photos/victor.png", "Wins":9}
 ]
